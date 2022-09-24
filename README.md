@@ -1,6 +1,8 @@
 # Android_Number_Guessing_Game
 Simple number guessing game
 
+This topic is a part of [My Complete Andorid Course](https://github.com/ananddasani/Android_Apps)
+
 # Code
 
 #### 1st Activity 
@@ -164,7 +166,10 @@ tryRemaining = findViewById(R.id.tryRemaining);
 
 # App Highlight
 
-<img src="app_images/number guessing game code.png" width="1000" /><br>
+![number guessing game App1](https://user-images.githubusercontent.com/74413402/192094687-49ef1444-0624-43de-b244-a4fc07e7bef3.png)
+![number guessing game App2](https://user-images.githubusercontent.com/74413402/192094690-eee3a9fd-21f0-4dfd-ac53-d87ef316e903.png)
+![number guessing game App3](https://user-images.githubusercontent.com/74413402/192094691-941dafc8-37a8-4a0a-8c09-9823f20dca75.png)
+![number guessing game App4](https://user-images.githubusercontent.com/74413402/192094693-c7acdd10-9d2f-42a2-af3b-8d806d04fc09.png)
+![number guessing game code](https://user-images.githubusercontent.com/74413402/192094696-332e58ec-2d4e-498a-974e-6c27be17e985.png)
 
-<img src="app_images/number guessing game App1.png" width="300" /> <img src="app_images/number guessing game App2.png" width="300" /> <img src="app_images/number guessing game App3.png" width="300" /> <img src="app_images/number guessing game App4.png" width="300" /><br>
 
